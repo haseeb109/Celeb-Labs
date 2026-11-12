@@ -1,0 +1,11 @@
+# one phrase per line; the script validator rejects any segment containing these
+allegedly guilty
+is guilty of
+committed a crime
+definitely did
+everyone knows
+sources close to
+it is rumored
+cheater
+liar
+disgraced

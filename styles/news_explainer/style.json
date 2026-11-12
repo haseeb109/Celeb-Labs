@@ -1,0 +1,17 @@
+{
+  "name": "News Explainer",
+  "target_minutes": 20,
+  "chapters": 9,
+  "palette": {"bg":"#0B1220","panel":"#121E34","accent":"#F5B83D","alert":"#E5484D","ok":"#40C878","info":"#2EC4B6","text":"#F2F4F8","muted":"#8A94A6"},
+  "fonts": {"display":"Inter Display Black","body":"Inter SemiBold","mono":"IBM Plex Mono"},
+  "ratios": {"footage_min":0.65, "animation_max":0.20, "text_cards_max":0.15},
+  "captions": {"on":true, "max_words":5, "size":62, "active_color":"accent", "stroke":5},
+  "voice": {"provider":"ai33", "voice_id":"elevenlabs_mG3mFwstnVD0kKoL07lx", "speed":1.0},
+  "music": {"source":"library", "mood":"dark cinematic investigative", "duck_db":-20},
+  "pacing": {"max_shot_avg":4.5, "chapter_card_s":3.4, "title_s":4.2, "lead":0.10, "tail":0.40},
+  "retention": {"hook_s":15, "teaser_by_min":3, "comment_prompt_min":7, "recaps":[0.4,0.7]},
+  "grain": false,
+  "lower_third_style": "amber_bar",
+  "stamps": ["CONFIRMED","REPORTED","ALLEGED","DENIED","FACT CHECK","HYPOTHETICAL"],
+  "narrative": ["cold_open","title","background","first_report","official_statement","reactions","escalation","decision","investigations","money_stakes","whats_next","outro"]
+}

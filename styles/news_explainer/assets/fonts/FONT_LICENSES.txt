@@ -1,0 +1,3 @@
+Inter / Inter Display — (c) The Inter Project Authors, SIL Open Font License 1.1 (https://rsms.me/inter/)
+DejaVu Sans / Sans Mono / Serif — Bitstream Vera derived, DejaVu fonts license (free, redistributable)
+Used as the style's bundled fonts; per-glyph fallback goes to DejaVu Sans.

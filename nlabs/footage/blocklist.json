@@ -1,0 +1,5 @@
+{
+  "_help": "Owner additions to the news-channel blocklist (Rule F7). You can ADD names/ids here; built-in entries in blocklist.py can never be removed.",
+  "names": [],
+  "channel_ids": []
+}

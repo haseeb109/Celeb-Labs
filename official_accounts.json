@@ -1,0 +1,6 @@
+{
+  "_help": "Owner-editable allow-list of VERIFIED official accounts/newsrooms (Rule S1/S2). Add entries; handles without '@'.",
+  "nvidia": {"name": "NVIDIA", "x": ["nvidia", "NVIDIANewsroom"], "domains": ["nvidia.com", "nvidianews.nvidia.com"], "youtube_channel_ids": ["UCHuiy8bXnmK5nisYHUd1J5g"]},
+  "white_house": {"name": "The White House", "x": ["WhiteHouse"], "domains": ["whitehouse.gov"]},
+  "sec": {"name": "U.S. SEC", "x": ["SECGov"], "domains": ["sec.gov"]}
+}

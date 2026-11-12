@@ -1,0 +1,38 @@
+{
+  "_help": "Tier A (public domain / government) YouTube channels. Editable. Still obeys the 5 s cap (F2).",
+  "channels": [
+    {
+      "name": "The White House",
+      "id": "UCYxRlFDqcWM4y7FfpiAN3KQ"
+    },
+    {
+      "name": "U.S. House Committee on Energy and Commerce"
+    },
+    {
+      "name": "Senate Commerce Committee"
+    },
+    {
+      "name": "U.S. Senate Committee on the Judiciary"
+    },
+    {
+      "name": "House Committee on Oversight and Accountability"
+    },
+    {
+      "name": "U.S. Securities and Exchange Commission",
+      "id": "UC0hOF1F7Mz04uEO9DpuLGWQ"
+    },
+    {
+      "name": "U.S. Department of Commerce"
+    },
+    {
+      "name": "NASA",
+      "id": "UCLA_DiR1FfKNvjuUpBHmylQ"
+    },
+    {
+      "name": "Department of Defense"
+    },
+    {
+      "name": "DVIDSHUB"
+    }
+  ]
+}

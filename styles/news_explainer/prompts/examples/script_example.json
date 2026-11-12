@@ -1,0 +1,4 @@
+{"segments":[
+ {"id":"s001","chapter":0,"kind":"vo","retention":"hook","text":"On Wednesday morning, the company announced that its founder had resigned as president, chief executive and director, effective immediately.","fact_ids":["F012"],"visual":{"intent":"subject_speaking","prefer":["footage"],"keywords":["keynote"]}},
+ {"id":"s002","chapter":0,"kind":"vo","retention":"open_loop","text":"But the announcement left out the one detail investors were asking about, and by the end of this video you will know what it was.","fact_ids":[],"visual":{"intent":"event","prefer":["footage"],"keywords":["stock"]}},
+ {"id":"s003","chapter":2,"kind":"vo","retention":"none","text":"According to the Wall Street Journal, the board had been reviewing his conduct for several weeks before the announcement.","fact_ids":["F004"],"visual":{"intent":"place","prefer":["footage","photo"],"keywords":["headquarters"]}}]}

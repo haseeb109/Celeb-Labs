@@ -1,0 +1,5 @@
+{"title_working":"The Fall of a CEO","chapters":[
+ {"n":1,"title":"The Man in the Leather Jacket","goal":"who he is and why it matters","fact_ids":["F001","F002"],"official_cards":[],"footage_ideas":["keynote","campus"]},
+ {"n":2,"title":"The First Report","goal":"what was reported, by whom, attributed","fact_ids":["F004"],"official_cards":[],"footage_ideas":["office exterior"]},
+ {"n":3,"title":"In His Own Words","goal":"the official statement verbatim","fact_ids":["F007"],"official_cards":["F007"],"footage_ideas":["podium"]}],
+ "comment_prompt":{"question":"Should a founder ever be forced out of the company they built?","answer_fact_ids":["F012"]}}
